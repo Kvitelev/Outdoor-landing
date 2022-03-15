@@ -311,6 +311,7 @@ img {
 .promise__list {
     display: flex;
     flex-wrap: wrap;
+    column-gap: 50px;
     justify-content: center;
     margin-left: 100px;
 }
@@ -339,7 +340,7 @@ img {
     height: 64px;
     position: absolute;
     top: -50px;
-    left: 110px;
+    left: 100px;
     background-image: url(../img/promise-icon-1.svg);
     background-repeat: no-repeat;
     background-position: center;
