@@ -442,14 +442,14 @@ img {
     margin-bottom: 25px;
 }
 
-.store__list-item:nth-child(1) {
+.store__list-item--accessorie {
     background-image: url(../img/store-cart-1.jpg);
     background-repeat: no-repeat;
     width: 380px;
     height: 473px;
 }
 
-.store__list-item:nth-child(2) {
+.store__list-item--apparel {
     background-image: url(../img/store-cart-2.jpg);
     background-repeat: no-repeat;
     width: 380px;
@@ -457,7 +457,7 @@ img {
     border-radius: 10px;
 }
 
-.store__list-item:nth-child(3) {
+.store__list-item--climbing-gear {
     background-image: url(../img/store-cart-3.jpg);
     background-repeat: no-repeat;
     width: 380px;
@@ -465,21 +465,21 @@ img {
     border-radius: 10px;
 }
 
-.store__list-item:nth-child(4) {
+.store__list-item--headwear {
     background-image: url(../img/store-cart-4.jpg);
     background-repeat: no-repeat;
     width: 380px;
     height: 473px;
 }
 
-.store__list-item:nth-child(5) {
+.store__list-item--hiking-gear {
     background-image: url(../img/store-cart-5.jpg);
     background-repeat: no-repeat;
     width: 380px;
     height: 473px;
 }
 
-.store__list-item:nth-child(6) {
+.store__list-item--jackets {
     background-image: url(../img/store-cart-6.jpg);
     background-repeat: no-repeat;
     width: 380px;
